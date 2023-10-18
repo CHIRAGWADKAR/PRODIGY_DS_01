@@ -6,7 +6,7 @@ I have used the dataset from Kaggle, which I have attached in this repository.
 I used Jupyter Notebook to visualize and analyze the data in the form of tables, bar charts and line charts.
 The Python libraries used for doing the task are NumPy, Pandas and Matplotlib.
 
-The dataset of Suicides in India between 2001 and 2012 are visualize on the basis of the various parameters such as 
+The Suicides in India between 2001 and 2012 are visualize on the basis of the various parameters such as 
 
 1. Number of suicides in the states of India<br>
 ![Screenshot (118)](https://github.com/CHIRAGWADKAR/PRODIGY_DS_01/assets/89576084/96ebcd45-8a2d-4e3d-9b97-b5391d9e63f7)<br>
